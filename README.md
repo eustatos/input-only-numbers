@@ -1,5 +1,7 @@
 # input-only-numbers
+
 ![](https://habrastorage.org/webt/lt/ij/yv/ltijyvo4sdcwhwaxfxzpkuuexq4.gif)
+
 ## Install
 ```bash
 npm i -S input-only-numbers
