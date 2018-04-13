@@ -1,6 +1,10 @@
 {
   "name": "input-only-numbers",
+<<<<<<< HEAD
   "version": "1.0.5",
+=======
+  "version": "1.0.4",
+>>>>>>> 3bebd5ec291958006e27731cc3ca12f0f724510c
   "main": "dist/index.js",
   "repository": "https://github.com/eustatos/input-only-numbers",
   "author": "eustatos <astashkinav@gmail.com>",
