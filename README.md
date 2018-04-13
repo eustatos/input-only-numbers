@@ -1,5 +1,7 @@
 # input-only-numbers
 
+Setting number of digits, successful and unsuccessful fill classes, function callback on successful completion
+
 ![](https://habrastorage.org/webt/lt/ij/yv/ltijyvo4sdcwhwaxfxzpkuuexq4.gif)
 
 ## Install
